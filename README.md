@@ -1,4 +1,4 @@
 # hello-world
-
-
-new comments
+This is my first repository
+I am looking forward to learning more.
+new comments.
